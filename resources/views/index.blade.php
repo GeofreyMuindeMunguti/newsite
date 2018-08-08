@@ -89,7 +89,7 @@
                             <li><a href="http://www.pinterest.com" target="_blank"><i class="ion-social-pinterest"></i></a></li>
                             <li><a href="http://www.linkedin.com"target="_blank"><i class="ion-social-linkedin"></i></a></li>
                             <li><a href="http://www.instagram.com" target="_blank"><i class="ion-social-instagram"></i></a></li>
-                            <li><a href="http://www.facebook.com" target="_blank"><i class="ion-social-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/geoffrey.munguti.14" target="_blank"><i class="ion-social-facebook"></i></a></li>
                             <li><a href="http://www.twitter.com" target="_blank"><i class="ion-social-twitter"></i></a></li>
                         </ul>
                     </div><!-- intro -->
