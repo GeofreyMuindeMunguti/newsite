@@ -125,9 +125,9 @@
                     
                         <div class="col-sm-6 col-md-6 col-lg-3">
                             <div class="radial-prog-area margin-b-30">
-                                <div class="radial-progress" data-prog-percent=".90">
+                                <div class="radial-progress" data-prog-percent=".80">
                                     <div></div>
-                                    <h6 class="progress-title">WEB DESIGN</h6>
+                                    <h6 class="progress-title">PYTHON</h6>
                                 </div>
                             </div><!-- radial-prog-area-->
                         </div><!-- col-sm-6-->
