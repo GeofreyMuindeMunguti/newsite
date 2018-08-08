@@ -67,7 +67,7 @@
                 </div><!-- row -->
             </div><!-- heading-wrapper -->
             
-            <a class="downlad-btn" href="images/cv.pdf" target="_blank">Download CV</a>
+            <a class="downlad-btn" href="images/cv1.pdf" target="_blank">Download CV</a>
         </div><!-- container -->
     </header>
     
