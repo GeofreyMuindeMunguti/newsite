@@ -90,7 +90,7 @@
                             <li><a href="http://www.linkedin.com"target="_blank"><i class="ion-social-linkedin"></i></a></li>
                             <li><a href="http://www.instagram.com" target="_blank"><i class="ion-social-instagram"></i></a></li>
                             <li><a href="https://www.facebook.com/geoffrey.munguti.14" target="_blank"><i class="ion-social-facebook"></i></a></li>
-                            <li><a href="http://www.twitter.com" target="_blank"><i class="ion-social-twitter"></i></a></li>
+                            <li><a href="https://twitter.com/geofrey_muinde" target="_blank"><i class="ion-social-twitter"></i></a></li>
                         </ul>
                     </div><!-- intro -->
                 </div><!-- col-sm-8 -->
