@@ -225,7 +225,7 @@
                         
                         <div class="education margin-b-50">
                             <h4><b>KENYA CERTIFICATE OF SECONDARY EDUCATION</b></h4>
-                            <h5 class="font-yellow"><b>MAKUENI BOY'S HIGH SCHOOL</b></h5>
+                            <h5 class="font-yellow"><b> </b></h5>
                             <h6 class="font-lite-black margin-t-10">GRADUATED IN DECEMBER 2015(4 YEARS)</h6>
                             <p class="margin-tb-30"> 
                             Graduated with a kenyan certificate of secondary education, this is the second level in the education structure in the country. 
