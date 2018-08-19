@@ -77,7 +77,7 @@
                 <div class="col-md-1 col-lg-2"></div>
                 <div class="col-md-10 col-lg-8">
                     <div class="intro">
-                        <div class="profile-img"><img src="images/geffa1.jpg" alt=""></div>
+                        <div class="profile-img"><img src="images/geffa.jpg" alt=""></div>
                         <h2><b>Muinde Geofrey</b></h2>
                         <h4 class="font-yellow">Junior Software Developer</h4>
                         <ul class="information margin-tb-30">
@@ -225,7 +225,7 @@
                         
                         <div class="education margin-b-50">
                             <h4><b>KENYA CERTIFICATE OF SECONDARY EDUCATION</b></h4>
-                            <h5 class="font-yellow"><b>MAKUENI BOY'S HIGH SCHOOL</b></h5>
+                            <h5 class="font-yellow"><b> </b></h5>
                             <h6 class="font-lite-black margin-t-10">GRADUATED IN DECEMBER 2015(4 YEARS)</h6>
                             <p class="margin-tb-30"> 
                             Graduated with a kenyan certificate of secondary education, this is the second level in the education structure in the country. 
